@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/Utilisateur/Desktop/rotary_encoder/components/**",
+                "C:\\Users\\Utilisateur\\Desktop\\rotary_encoder\\components\\rotary_encoder\\include\\",
+                "C:\\Users\\Utilisateur\\OneDrive\\Documents\\esp-idf\\examples\\peripherals\\pcnt\\rotary_encoder\\components\\rotary_encoder\\include\\**",
+                "C:\\Users\\Utilisateur\\Desktop\\rotary_encoder\\components\\rotary_encoder\\include\\",
+                "C:\\Users\\Utilisateur\\OneDrive\\Documents\\esp-idf\\components\\esp_common\\include\\"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64",
+            "mergeConfigurations": true,
+            "browse": {
+                "path": [
+                    "C:\\Users\\Utilisateur\\Desktop\\rotary_encoder\\components"
+                ]
+            },
+            "compilerArgs": [
+                "C:\\Users\\Utilisateur\\Desktop\\rotary_encoder\\components"
+            ]
+        }
+    ],
+    "version": 4
+}
