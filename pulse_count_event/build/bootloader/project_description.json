@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/bootloader/subproject",
+    "build_dir":          "C:/Users/Utilisateur/Desktop/pulse_count_event/build/bootloader",
+    "config_file":        "C:/Users/Utilisateur/Desktop/pulse_count_event/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.3.2-dirty",
+    "target":             "esp32s2",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32s2-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/efuse/Kconfig;C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/esp32s2/Kconfig;C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/esp_common/Kconfig;C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/esp_system/Kconfig;C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/log/Kconfig;C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/newlib/Kconfig;C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/bootloader/Kconfig.projbuild;C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/esptool_py/Kconfig.projbuild;C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32s2", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/bootloader", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/bootloader_support", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/efuse", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/esp32s2", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/esp_common", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/esp_hw_support", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/esp_rom", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/esp_system", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/esptool_py", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/hal", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/log", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/bootloader/subproject/main", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/bootloader/subproject/components/micro-ecc", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/newlib", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/partition_table", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/soc", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/spi_flash", "C:/Users/Utilisateur/OneDrive/Documents/esp-idf/components/xtensa", "" ]
+}
